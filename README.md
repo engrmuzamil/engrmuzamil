@@ -34,10 +34,24 @@
 
 <br/>
 
-<a href="https://github.com/engrmuzamil">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=engrmuzamil&theme=buefy&show_icons=true" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engrmuzamil&theme=buefy&layout=compact" />
-</a>
+<h4>Visitor Count :eyes:</h4>
+<p>
+    <a href="https://github.com/engrmuzamil">
+        <img src="https://profile-counter.glitch.me/{engrmuzamil}/count.svg" alt="engrmuzamil :: Visitor's Count" />
+    </a>
+</p>
+
+<p>
+    <a href="https://github.com/engrmuzamil"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engrmuzamil&theme=tokyonight&layout=compact&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe" alt="engrmuzamil :: Top Langs" /></a>
+    <a href="https://github.com/engrmuzamil"><img src="https://github-readme-stats.vercel.app/api?username=engrmuzamil&show_icons=true&include_all_commits=true&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe&custom_title=My+Github+Stats" alt="engrmuzamil :: Profile Stats" /></a>
+</p>
+
+<p>
+    <a href="https://github.com/engrmuzamil">
+        <img src="https://github-profile-trophy.vercel.app/?username=engrmuzamil&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" alt="engrmuzamil :: Tropy Stats" />
+    </a>
+</p>
+
 
 <br/>
 
@@ -49,6 +63,6 @@
 </p>
 
 ------
-Credits: [Rizsyad](https://github.com/Rizsyad)
+Credits: [engrmuzamil](https://github.com/engrmuzamil)
 
 Last Edited on: 09/01/2023
