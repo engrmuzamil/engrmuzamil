@@ -2,15 +2,22 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Msc Business Informatics-University of Mannheim, Bsc Computer Science-National University of Computer & Emerging Sciences.
-- 💼 &nbsp; SunExpress-Lufthansa, SAP, University of Mannheim, Touchstone Communications.
-- 💭 &nbsp; Diving deeper into the realm of web development, IT automation scripts and data science.
-- 🍭 &nbsp; Gardening, working out and fragrances as hobbies.
+- 🎓 &nbsp; BSc in Computer Software Engineering from University of Engineering and Technology Mardan, KPK, Pakistan.
+- 🤔 &nbsp; Software Engineer, learning new technologies followed by development.
+- 💼 &nbsp; Full Time - Logic Worms, Part Time - PartEx Technologies, Self Owned - WaveIT Technologies.
+- 💭 &nbsp; Cloud Computing and Blockchain, are my future thoughts to work on.
+- 🍭 &nbsp; Coding and Cooking are my hobbies.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Technologies Stack</h3>
 
-- 💻 &nbsp; <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+- 💻 &nbsp; <img src="https://img.shields.io/badge/Dart%20-%2300599C.svg?&style=for-the-badge"/>    
+<img src="https://img.shields.io/badge/C-%1200550.svg?&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/C++-%23239980.svg?&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge"/> 
+<img src="https://img.shields.io/badge/Python-%23239950.svg?&style=for-the-badge"/> 
+<img src="https://img.shields.io/badge/JavaScript-%23236199.svg?&style=for-the-badge"/> 
+<img src="https://img.shields.io/badge/Git-%23231130.svg?&style=for-the-badge"/> 
+
 - 🌐 &nbsp; <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
 - 💳 &nbsp;  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/wordpress-ar21.svg"> </code>, Woocommmerce, Shopify
@@ -46,4 +53,4 @@
 ------
 Credits: [MrStanDu33](https://github.com/MrStanDu33)
 
-Last Edited on: 29/12/2020
+Last Edited on: 09/01/2023
