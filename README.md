@@ -10,13 +10,8 @@
 
 <h3> 🛠 &nbsp;Technologies Stack</h3>
 
-- 💻 &nbsp; <img src="https://img.shields.io/badge/Dart%20-%2300599C.svg?&style=for-the-badge"/>    
-<img src="https://img.shields.io/badge/C-%1200550.svg?&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/C++-%23239980.svg?&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge"/> 
-<img src="https://img.shields.io/badge/Python-%23239950.svg?&style=for-the-badge"/> 
-<img src="https://img.shields.io/badge/JavaScript-%23236199.svg?&style=for-the-badge"/> 
-<img src="https://img.shields.io/badge/Git-%23231130.svg?&style=for-the-badge"/> 
+- 💻 &nbsp; <img src="https://img.shields.io/badge/Dart%20-%2300599C.svg?&style=for-the-badge"/>  
+ <img src="https://img.shields.io/badge/C-%1200550.svg?&style=for-the-badge"/> <img src="https://img.shields.io/badge/C++-%23239980.svg?&style=for-the-badge"/> <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge"/> <img src="https://img.shields.io/badge/Python-%23239950.svg?&style=for-the-badge"/> <img src="https://img.shields.io/badge/JavaScript-%23236199.svg?&style=for-the-badge"/>  <img src="https://img.shields.io/badge/Git-%23231130.svg?&style=for-the-badge"/> 
 
 - 🌐 &nbsp; <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
