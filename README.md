@@ -47,8 +47,7 @@
  
 
 </p>
-   
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engrmuzamil&" alt="engrmuzamil" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engrmuzamil&" alt="engrmuzamil" /></p>
 <p>
     <a href="https://github.com/engrmuzamil">
         <img src="https://github-profile-trophy.vercel.app/?username=engrmuzamil&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" alt="engrmuzamil :: Tropy Stats" />
