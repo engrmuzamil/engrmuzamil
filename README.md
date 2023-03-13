@@ -44,6 +44,9 @@
 <p>
     <a href="https://github.com/engrmuzamil"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engrmuzamil&theme=tokyonight&layout=compact&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe" alt="engrmuzamil :: Top Langs" /></a>
     <a href="https://github.com/engrmuzamil"><img src="https://github-readme-stats.vercel.app/api?username=engrmuzamil&show_icons=true&include_all_commits=true&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe&custom_title=My+Github+Stats" alt="engrmuzamil :: Profile Stats" /></a>
+    
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engrmuzamil&" alt="engrmuzamil" /></p>
+
 </p>
 
 <p>
