@@ -5,7 +5,7 @@
 - 🎓 &nbsp; BSc in Computer Software Engineering from University of Engineering and Technology Mardan, KPK, Pakistan.
 - 🤔 &nbsp; Software Engineer, learning new technologies followed by development.
 - ⛳ &nbsp; Cross Platform App Development using Flutter .
-- 💼 &nbsp; Full Time - Logic Worms, Part Time - PartEx Technologies, Self Owned - WaveIT Technologies.
+- 💼 &nbsp; Full Time - Logic Worms, Self Owned - WaveIT Technologies, PartEx Technologies, Mindstorm Studios.
 - 💭 &nbsp; Cloud Computing and Blockchain, are my future thoughts to work on.
 - 🍭 &nbsp; Coding and Cooking are my hobbies.
 
@@ -67,4 +67,4 @@
 ------
 Credits: [engrmuzamil](https://github.com/engrmuzamil)
 
-Last Edited on: 09/01/2023
+Last Edited on: 20/06/2023
