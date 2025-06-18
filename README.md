@@ -61,7 +61,7 @@
 
 <p >
 <a href="https://www.linkedin.com/in/muzamil-khan-se/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Muzamil Khan-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:engineer.muzamilkhan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-engineer.muzamilkhan@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:xtechiez@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-xtechiez@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ------
