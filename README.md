@@ -4,7 +4,7 @@
 <div align="center">
 
 # Hi, I'm Muzamil Khan 👋  
-## Senior Software Engineer | Flutter Lead | Full-Stack Architect
+## Software Engineer | Flutter Lead | Full-Stack Architect
 
 [![Profile Views](https://komarev.com/ghpvc/?username=engrmuzamil&color=1DA1F2&style=for-the-badge)](https://github.com/engrmuzamil)
 [![Followers](https://img.shields.io/github/followers/engrmuzamil?style=for-the-badge&color=28a745)](https://github.com/engrmuzamil?tab=followers)
@@ -20,7 +20,7 @@
 - **98% On-Time Delivery** Across All Projects  
 - **Architected POS Systems** for 12+ Businesses → Achieved **22% Operational Efficiency Gain**  
 - **Led FAIMS Deployment** to 500+ Distributors Across Pakistan  
-- **Founder & Lead Engineer at XTechiez Technologies**: Drove **200% ARR Growth** & **85% Client Retention**
+- **Founder & Software Engineer at XTechiez Technologies**: Drove **200% ARR Growth** & **85% Client Retention**
 
 ---
 
@@ -149,5 +149,5 @@ Explore more on my portfolio: https://muzamil-khan.vercel.app | Company: https:/
 - **Email:** muzamil.khan.se@gmail.com
 
 ---
-I build products the way I cook: with precision, good taste, and an eye on the end‑user. If you’re hiring for a Senior Software Engineer—or need expert Flutter/full‑stack help—let’s talk.
+I build products the way I cook: with precision, good taste, and an eye on the end‑user. If you’re hiring for a Software Engineer—or need expert Flutter/full‑stack help—let’s talk.
 *Credits: [engrmuzamil](https://github.com/engrmuzamil)*
